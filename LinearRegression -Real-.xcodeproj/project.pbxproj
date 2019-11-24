@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		F13A7F0623737A7D00CDE5F1 /* LinearRegression -Real- */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "LinearRegression -Real-"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F13A7F0923737A7D00CDE5F1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		F13A7F1023737A9700CDE5F1 /* LinearRegressionModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LinearRegressionModel.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				F13A7F0923737A7D00CDE5F1 /* main.cpp */,
+				F13A7F1023737A9700CDE5F1 /* LinearRegressionModel.h */,
 			);
 			path = "LinearRegression -Real-";
 			sourceTree = "<group>";
